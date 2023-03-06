@@ -1,0 +1,5 @@
+﻿  Main.cpp
+d:\dev\cppseries\copying45\copying45\main.cpp(64): warning C4018: '<': signed/unsigned mismatch
+d:\dev\cppseries\copying45\copying45\main.cpp(65): error C2676: binary '[': 'std::shared_ptr<char>' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\dev\cppseries\copying45\copying45\main.cpp(66): error C2676: binary '[': 'std::shared_ptr<char>' does not define this operator or a conversion to a type acceptable to the predefined operator
+d:\dev\cppseries\copying45\copying45\main.cpp(90): error C2676: binary '[': 'std::shared_ptr<char>' does not define this operator or a conversion to a type acceptable to the predefined operator

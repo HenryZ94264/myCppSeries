@@ -1,0 +1,13 @@
+﻿  Main.cpp
+d:\dev\cppseries\template53\template53\main.cpp(18): error C2275: 'T': illegal use of this type as an expression
+  d:\dev\cppseries\template53\template53\main.cpp(18): note: while compiling class template member function 'T Array<T,5>::GetType(void) const'
+          with
+          [
+              T=int
+          ]
+  d:\dev\cppseries\template53\template53\main.cpp(29): note: see reference to function template instantiation 'T Array<T,5>::GetType(void) const' being compiled
+          with
+          [
+              T=int
+          ]
+  d:\dev\cppseries\template53\template53\main.cpp(27): note: see reference to class template instantiation 'Array<int,5>' being compiled
